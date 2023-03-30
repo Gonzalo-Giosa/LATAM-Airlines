@@ -1,0 +1,8 @@
+data
+.DS_Store
+.ipynb_checkpoints
+mlruns
+logs.log
+fastml
+__pycache__
+latam-fastapi-env
