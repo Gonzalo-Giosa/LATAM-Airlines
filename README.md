@@ -1,4 +1,4 @@
-# ML Engineer Challenge - LATAM Airlines
+#LATAM Airlines
 
 
 ### Carpetas 
@@ -13,7 +13,6 @@ Esta carpeta contiene los archivos de desarrollo, como notebooks y modelos. En e
 
 Dentro de la carpeta 'dev' podemos encontrar la carpeta 'notebooks' donde se encuentran los dos notebooks principales del desafio donde se desarrollaron los modelos.
 
-to-expose.ipynb : Trabajo de 'Juan', punto de partida. El projecto se baso en encontrar mejoras y optimizar el modelo de 'Juan' en cuanto a performance en evaluacion y en produccion
 
 ## Proceso:
 
